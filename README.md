@@ -1,6 +1,6 @@
 # Claude Code Workspace
 
-Structured workspace setup for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Brandon Packard.
+Structured workspace setup for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 
 
 ## Quick Start
 
