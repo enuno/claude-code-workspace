@@ -5,7 +5,7 @@ Structured workspace setup for [Claude Code](https://docs.anthropic.com/en/docs/
 ## Quick Start
 
 ```bash
-curl -sL https://raw.githubusercontent.com/abcnuts/claude-code-workspace/main/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/enuno/claude-code-workspace/refs/heads/main/setup.sh | bash
 ```
 
 Or clone and run manually:
